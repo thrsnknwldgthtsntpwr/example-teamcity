@@ -6,7 +6,7 @@
 	<groupId>org.netology</groupId>
 	<artifactId>plaindoll</artifactId>
 	<packaging>jar</packaging>
-	<version>0.0.2 </version>
+	<version>0.0.6 </version>
 
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
@@ -19,7 +19,7 @@
 		</repository>
 		<snapshotRepository>
     			<id>nexus</id>
-    			<url>http://your-nexus-url/repository/maven-snapshots/</url>
+    			<url>http://84.201.155.162:8081/repository/maven-snapshots/</url>
   		</snapshotRepository>
 	</distributionManagement>
 	<dependencies>
