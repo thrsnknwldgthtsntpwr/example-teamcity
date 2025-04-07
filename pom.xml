@@ -17,10 +17,6 @@
 				<id>nexus</id>
 				<url>http://84.201.155.162:8081/repository/maven-releases</url>
 		</repository>
-		<snapshotRepository>
-    			<id>nexus</id>
-    			<url>http://84.201.155.162:8081/repository/maven-snapshots/</url>
-  		</snapshotRepository>
 	</distributionManagement>
 	<dependencies>
 		<dependency>
